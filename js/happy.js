@@ -24,7 +24,7 @@ function happy() {
     //calling the normal function
     setTimeout(function() {
         normal();
-    }, 10000);
+    }, 5000);
 }
 
 //turn back
@@ -55,8 +55,6 @@ function normal() {
 
 /*
 TESTING PART
-
-
 //Creating the risk for the mouth
 var divRisc = document.createElement('div');
 divRisc.style.height = "13px";
