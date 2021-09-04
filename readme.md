@@ -7,7 +7,8 @@
 <br>
 
 ## 💡 Idea:
-Create a character using CSS and JS. The main intuition of this project was to practice JS.
+Create a character using CSS and Javascript. The main intuition of this project was to practice CSS and Javascript.
+![Mascot](https://amandacleto.github.io/images-for-projects/public/images/github-readme/mascot.png)
 
 
 ## 🌐 Links:
