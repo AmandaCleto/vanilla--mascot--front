@@ -12,7 +12,7 @@ Create a character using CSS and Javascript. The main intuition of this project 
 
 
 ## 🌐 Links:
-See the result: https://codepen.io/AmandaCleto/pen/OJPGgMa
+See the result: [<ins>Codepen: Mascot</ins>](https://codepen.io/AmandaCleto/pen/OJPGgMa).
 
 <br>
 
